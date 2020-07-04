@@ -1,0 +1,3 @@
+USE expressfood;
+INSERT INTO produit(p_nom,p_description,p_type,p_prix,p_date_ajout,p_fk_express_food_qg) VALUE("Spaghettis à la bolognaise","","Plat",12.50,"2020-03-05","1"),("Brandade de morue","","Plat",12.50,"2020-03-05","1"),("Risotto calamars et chorizo","","Plat",12.50,"2020-03-06","1"),("Spaghettis au saumon fumé","","Plat",12.50,"2020-03-06","1"),
+("Ramequins fondants au chocolat","","Dessert",8.50,"2020-03-05","1"),("Tiramisu","","Dessert",8.50,"2020-03-05","1"),("Pancakes","","Dessert",8.50,"2020-03-06","1"),("Tarte aux pommes à l'Alsacienne","","Dessert",8.50,"2020-03-06","1")

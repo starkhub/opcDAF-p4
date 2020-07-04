@@ -1,0 +1,2 @@
+USE expressfood;
+INSERT INTO dessert(d_nom,d_prix,d_date_ajout,d_fk_express_food_qg_id) VALUE("Ramequins fondants au chocolat",8.50,"2020-03-05","1"),("Tiramisu",8.50,"2020-03-05","1"),("Pancakes",8.50,"2020-03-06","1"),("Tarte aux pommes à l'Alsacienne",8.50,"2020-03-06","1")
